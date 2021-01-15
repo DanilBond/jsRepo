@@ -1,3 +1,4 @@
-let value = "Distance";
-let unit = "Meters";
-console.log(`${value} is measuted in ${unit}`);
+let book = "Dark Tover";
+let author = "SB";
+
+console.log(`My favorete book is ${book} by ${author}`);
