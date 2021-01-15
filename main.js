@@ -1,1 +1,3 @@
-console.log("London is capital of GB");
+let capital = "London";
+let country = "GB";
+console.log(`${capital} is capital of ${country}`);
